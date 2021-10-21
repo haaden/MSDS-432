@@ -1,1 +1,3 @@
-# MSDS-432
+# MSDS-432 Foundations of Data Engineering
+
+This course provides an overview of the discipline of data engineering. It introduces software and systems for data science and software development as required in the design of data-intensive applications. Students learn about algorithms, data structures, and technologies for storing and processing data. Students gain experience with open-source software, text editors, integrated development environments, and cloud systems. Students employ best practices in software development, utilizing tools for syntax checking, testing, debugging, and version control. The course also introduces formal models for algorithm and system performance.
